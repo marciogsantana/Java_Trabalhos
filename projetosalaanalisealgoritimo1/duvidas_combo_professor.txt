@@ -1,0 +1,18 @@
+
+         if (listabox.getSelectedIndex() == 0){
+                
+               nome = "crescente.txt";
+         }     
+         else if (listabox.getSelectedIndex() == 1){
+        
+              nome = "decrescente.txt";
+             
+         }    
+            
+         else{    
+            
+              nome = "aleatorio.txt";       
+                     
+        }    
+                
+       
